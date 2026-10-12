@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyca/bcrypt/commit/0e84f64b2885b18f0e29843169619952233f8867",
       "git:hexsha": "0e84f64b2885b18f0e29843169619952233f8867",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyca/bcrypt/commit/f204d426bd4c364e80c6b59b27a12aaf48d6bb23",
